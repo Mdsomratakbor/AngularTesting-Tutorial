@@ -5,6 +5,7 @@
 
 ### Inbuilt Matcher
 `The matchers which are inbuilt in the Jasmine framework are called inbuilt matcher. The user can easily use it implicitly.`
+
 ![image](https://user-images.githubusercontent.com/53125546/216516087-2b8a1d97-b4dc-4feb-8bb7-a48a573edd31.png)
 
 ### Custom Matchers
