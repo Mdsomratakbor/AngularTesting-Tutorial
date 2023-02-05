@@ -22,5 +22,13 @@
 
 - `toBeFalsy() also works the same way as toBeTruthy() method. It matches the output to be false whereas toBeTruthy matches the output to be true.`
 
+5. **toBeFalse()**
+
+- `Matcher function performs the test: (actual === false || is(actual, 'Boolean') && actual.valueOf())`
+- `Syntax: expect(flag).toBeFalse()`
+- `This function behaves the same way as toBe(true) but handles an additional case.`
+- `toBe(true) ➜ only handles a primitive boolean type.`
+- `toBeFalse() ➜ handles both a primitive boolean type and a Boolean object.`
+
  
 
