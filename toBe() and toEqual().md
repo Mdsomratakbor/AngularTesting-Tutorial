@@ -51,7 +51,7 @@ describe('AppComponent', () => {
     expect(a).toBe(b); // output: true
 
     // number compare using toEqual matcher;
-//expect(a).toEqual(b); // output: true
+    expect(a).toEqual(b); // output: true
 
     // string compare using toBe matcher;
     expect(name1).toBe(name2); // output: true
